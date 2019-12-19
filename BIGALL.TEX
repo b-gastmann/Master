@@ -1,0 +1,82 @@
+\documentclass[a4paper,11pt,BCOR=7mm,onecolumn,headsepline,captions=tableheading,parskip=half,ngerman]{scrartcl}
+%Allgemein:
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[autooneside=false,automark]{scrlayer-scrpage}
+%Schriftart:
+\usepackage{lmodern}
+%mal schauen:
+\usepackage[font=small,labelfont=it]{caption}
+\usepackage{here}
+
+\usepackage[onehalfspacing]{setspace} %Für richtigen Abstand der Absätze
+%Für Chemie:
+\usepackage{chemmacros}
+\usepackage{chemformula}
+\usepackage{ghsystem}
+\usepackage{chemfig}
+\usepackage{siunitx}
+%Für Tabellen
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{longtable}
+\usepackage{booktabs} 	%\*rule-Befehle
+\usepackage{array}		%p und b Spalten
+%Grafiken
+\usepackage{graphicx}
+\usepackage{subfig}
+%Literatur/Zitieren
+\usepackage[autostyle, german=quotes]{csquotes}
+\usepackage[sorting=none]{biblatex}
+%Mehr Zeichen:
+\usepackage{amsmath}
+\usepackage{amssymb}
+%Fußnoten:
+\usepackage{savefnmark}
+%Aufzählungen
+\usepackage{mdwlist}
+\usepackage{paralist}
+\usepackage{enumerate}
+%Für Verweise:
+\usepackage{varioref}
+\usepackage{hyperref}
+\usepackage{cleveref}
+%
+\usepackage{microtype}
+\usepackage{todonotes}
+
+%Literaturdatei:
+\bibliography{Literatur}
+
+%Chemfig:
+\renewcommand*\printatom[1]{\ensuremath{\mathsf{#1}}}
+%SI soll , statt . als Trennzeichen
+\sisetup{
+output-decimal-marker = {,},
+per-mode = symbol,
+}
+%Absatzabstand
+\newcommand{\sref}[1]{(siehe \cref{#1})}
+
+%Allgemeine Einstellungen:
+\pagestyle{scrheadings}
+
+%Silbentrennung:
+\hyphenation{}
+
+\begin{document}
+%\input{Titelpage}
+\input{Titelpage}
+%
+\tableofcontents
+\pagebreak
+
+\input{Einleitung}
+\input{Theorie}
+\input{Messmethoden.tex}
+\input{Synthesen}
+\input{Auswertung.tex}
+\input{Zusammenfassung.tex}
+\printbibliography
+\end{document}
