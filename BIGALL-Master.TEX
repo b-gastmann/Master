@@ -6,7 +6,8 @@ headsepline,
 captions=tableheading,
 parskip=half,
 ngerman,
-bibtotocnumbered]{scrartcl}
+bibtotocnumbered,
+listof=totoc]{scrartcl}
 %Allgemein:
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -93,4 +94,9 @@ per-mode = symbol,
 \input{Zusammenfassung.tex}
 \pagebreak
 \printbibliography
+\pagebreak
+\section{Anhang}
+\listoffigures
+\pagebreak
+\listoftables
 \end{document}

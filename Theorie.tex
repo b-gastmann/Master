@@ -73,12 +73,69 @@
 	
 %-----------------------------------------------------
 
-    \subsection{Metallnanopartikel \& Plasmonik}
+    \subsection{Metallnanopartikel \& Oberflächenplasmonen}
+    
+    Metallische Nanopartikel, die kolloidal in Lösung vorliegen, zeigen ein Absorptionsspektrum.
+    Dieses ist aber anders als bei Halbleitern nicht auf Elektronenübergänge zwischen quantisierten Energiezuständen einzelner Elektronen, sondern es kommt zu einer kollektiven Anregung eines Elektronenensambles.
+    Diese Anregung wird als Oberflächenplasmonenresonanz bezeichnet. \autocite{Mulvaney1996}
+    
+    Das Phänomen der lokalisierten Oberflächenresonanz (LOPR) entsteht bei der Wechselwirkung von einer elektromagnetischer Welle und frei beweglichen Elektronen eines Metallnanopartikels.\autocite{Hu2006}
+    Das periodische elektromagnetische Feld verursacht dabei eine kollektive Oszillation der leitenden Elektronen, wenn die passende Resonanzfrequenz getroffen wird.
+    Da die absorbierten Photonen in Phonen des Metallgitters umgewandelt wird, kann kein Emissionsspektrum gemessen werden.
+    Für Nanopartikel mit einem Radius $r<<\lambda$, mit $\lambda$ als Wellenlänge, kann in guter Näherung ein, das Partikel durchdringende Feld, als homogen über das gesamte Partikel angenommen werden. \autocite{Xu1999}
+    Dadurch kann vereinfacht angenommen werden, dass nur die Dipolanregung zur Extinktion beiträgt und die Dipolaufspaltung als quasistatisch angenommen werden kann.
+    
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.6\linewidth]{Bilder/Muster}
+        \caption{Schematische Darstellung der lokalisierten Oberflächenresonanz (LOPR)}
+        \label{fig:LOPR}
+    \end{figure}
+    
+    Die plasmonische Resonanzfrequenz ist dabei durch die Permittivität des Metalls, die Größe und Form des Partikels und die Permittivität des umgebenden Mediums. \autocite{Kelly2003,Mock2003}
+    Die LOPR-Bande dieser Partikel können sich vom ultravioletten bis in den infraroten Bereich erstrecken. \autocite{Haes2004}
     
     \subsection{Metall-Halbleiter-Nanopartikel}
+    Wenn Metallpartikel in Nähe von fluoriszierenden Halbleiter-Nanopartikeln liegen haben diese Einfluss auf die Fluoriszenz dieser.
+    Die plasmonischen Metallnanopartikel können als optische Antennen aufgefasst werden, sie können also die zur Anregung der LOPR einfallenden Strahlung im Nahfeld lokalisieren. 
+    Je nach Abstand zwischen beiden kann es sowohl zu Fluoriszenzverstärkung als auch zu Fluoriszenzauslöschung kommen. \autocite{Kulakovic2002,Viste2010}
+    
+    Die Verstärkung kann hauptsächlich auf den Anstieg der Anregungsrate im Fluorophor zurückgeführt werden.\autocite{Chen2008}
+    Eine Verstärkung kann durch die chemische Kupplung mit definierten Abstand von plasmonischen Partikeln an die Oberfläche der Halbleiter-Nanopartikel.\autocite{Lee2004}
+    
+    Die Auslöschung wird durch sehr geringe Abstände oder eine direkte chemische Bindung verursacht.\autocite{Costi2010}
+    Hier kommt es an der Grenzfläche zur Ladungstrennung, bei dem ein Elektron aus dem Leitungsband des Halbleiters in die Metalldomäne übertragen wird.
+    Dadurch erhöht sich die Menge an strahlungsfreier Relaxation.
+    
     
     \subsection{Nanopartikelbasierte Gele}
     
-    \subsection{Edelmetallgele}
+    Allgemein sind Gele Systeme aus mindestens zwei Komponenten, wobei eines ein festes dreidimensionales Netzwerk bildet und von einer Flüssigkeit oder einem Gas ausgefüllt ist. \todo{ref Pure Appl. Chem. 79 10 1801-1829,2007}
+    
+    Der klassische Bildungsmechanismus folgt meist dem Sol-Gel-Verfahren. \todo{ref mod.Gele}
+    Dabei wird aus einem flüssigen System über stufenweise Umwandlungen von Vorstufen ein Sol gebildet woraus anschließend ein Gel entsteht. \todo{ref mod.Gele Q2}
+    Diese Umwandlungen sind meist Polymerisationsreaktionen oder bei anorganischen, oxidschen Gelen Kondensationsreaktionen. 
+    Da bei diesen Reaktionen das Material, das das Sol und später das Netzwerk bildet, das gleiche ist, wie das verknüpfende, können diese Prozesse nur für spezielle Materialien durchgeführt werden.
+    
+    Da viele Eigenschaften von Nanopartikeln form- und größenabhängig sind, diese aber bei diesem klassischen Ansatz nur schwer bis gar nicht einstellbar sind, eignet er sich für die Gelierung von Nanopartikeln nicht gut.
+    
+    Dieses Problem konnte erstmals in der Arbeit von Brock und Monahan 2004 umgangen werden, durch kontrollierte Destabilisierung der Nanopartikel. \todo{ref 28,29}
+    Diese Destabilisierung erfolgt durch Zugabe eines Oxidationsmittels in eine Lösung von ligandenstabilisierten Nanopartikeln.
+    Durch diese Zugabe reagieren Teile der Liganden miteinander, wodurch es zu offenen Stellen an der Oberfläche der Nanopartikel kommt, an denen die Partikel dann aggregieren können.
+    Neben diesem Ansatz sind auch andere Gelierungsstrategien bekannt, die in \cref{fig:Destabilisierung} gezeigt sind.
+    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\linewidth]{Bilder/Gelierung.png}
+        \caption{Strategien für die kontrollierte Destabilisierung von vorab gebildeten kolloidalen Lösungen.}
+        \label{fig:Destabilisierung}
+    \end{figure}
+    \todo{Caption+Ref Moderne Anorganische Chemie}
+    
+    Auf diese Weise können auch metallische Nanopartikel zu Gelen weiterverarbeitet werden. \todo{anders ausdrücken, ref Bigall}
+    Diese zeigen vielversprechende Eigenschaften bei verschiedenen elektrokatalytischen Prozessen wie Alkoholoxidation, Sauerstoffreduktionsreaktion und Sauerstoffentwicklungsreaktion. \todo{ref14,21,22,30,37,38 Ran Du}
+    Edelmetall-Nanostrukturen weisen einzigartige optische Eigenschaften auf, die eine Kopplung zwischen den kollektiven Oberflächenelektronenoszillationen und dem einfallenden elektromagnetischen Feld ermöglichen und so ein dramatisch verstärktes lokales elektrisches Feld für eine oberflächenverstärkte Raman-Streuung ergeben. \todo{ref{Ran Du 39,8 Review105}}
+
     
     \subsection{Metall-Halbleiter-Gele}
+    \todo{}
