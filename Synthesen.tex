@@ -1,4 +1,4 @@
-% !TEX root = Bigall.tex
+% !TEX root = BIGALL-Master.tex
 \section{Experimentelles}
 	\subsection{Chemikalien}
 		\todo{Hersteller}
@@ -30,7 +30,55 @@
 				\bottomrule
 			\end{tabular}
 		\end{table}
+	
+	\subsection{Synthese von Kupfersulfid durch Single-Source-Precurser}
+	\todo{Synthese für Cd und Zn auch aufschreiben oder nur später als gegeben erwähnen?}
+	Für die Synthese von Kupfersulfid wird eine thermische Zersetzung eines Kupferkomplexes genutzt, der als Single-Source-Precurser dient. \autocite{JenLaPlante2010}
+	\subsubsection{Synthese des Single-Source-Precursors \ch{Cu[DDTC]2}}
+	Zur Herstellung des gewünschten Precursors (\ch{Cu[DDTC]2}) werden zwei Lösungen vorbereitet: 
+	Einmal werden \SI{0,2218}{\gram} \ch{CuCl2} in \SI{20}{\milli\liter} Wasser gelöst.
+	Für die zweite Lösung werden \SI{0,7323}{\gram} \ch{Na[DDTC]* 3 H2O} in \SI{20}{\milli\liter} Wasser gelöst.
+	Anschließend werden beide Lösungen zusammengegeben, wobei sich direkt ein dunkler Niederschlag bildet.
+	Dieser wird abzentrifugiert und an Luft getrocknet.
+	Daraufhin wird es in heißem Chloroform rekristallisiert und erneut an Luft getrocknet.
+	Das entstandene \ch{Cu[DDTC]2} wird abgewogen und in TOP aufgenommen, sodass eine 0,11 molare Lösung erhalten wird.
+	
+	\subsubsection{Herstellung Metallsulfid}
+	Es werden \SI{100}{\micro\liter} der 0,11~M \ch{Cu[DDTC]2}-Lösung in ein \SI{8}{\milli\liter}-Schraubdeckelgläschen gegeben, dass in einem Sandbad auf \SI{290}{\degreeCelsius} unter Stickstoffatmosphäre erhitzt wird.
+	Dies wird solange erhitzt, bis das gesamte Lösemittel verdampft ist und ein schwarzer trockener Rückstand erkennbar ist.
+	Dieser wird in \SI{0,5}{\milli\liter} Toluol aufgenommen, anschließend \SI{1}{\milli\liter} Methanol dazugegeben und abzentrifugiert.
+	Der Rückstand wird in \SI{0,5}{\milli\liter} Toluol aufgenommen.
+	
+	\subsection{Synthese von CuS mit \ch{Cu[DDTC]2} und \ch{CuCl2}}
+	Da bekannt ist, dass Chloridionen einen starken Einfluss auf das Nukleationsverhalten bei Nanopartikeln haben kann\cite{Hinrichs2016}, wurde ein Teil des Single-Source-Precursors durch \ch{CuCl2} substituiert.
+	\todo{weiter ausführen}
+	
+	\subsection{Synthese von Kupfersulfid in Anwesenheit von Goldnanopartikeln}
+	
+	Bei dieser Synthese wurde die CuS-Synthese, wie oben beschrieben, durchgeführt, mit einem Anteil an Gold-Nanopartikeln, mit der Absicht, dass die CuS-Bildung um die Nanopartikel herum stattfindet.	
+	Es werden \SI{100}{\micro\liter} der 0,11~M \ch{Cu[DDTC]2}-Lösung und verschiedene Mengen (\cref{tab:Au_Cu_Ratio} der Goldnanopartikel in Hexan in ein \SI{8}{\milli\liter}-Schraubdeckelgläschen zusammengegeben und in einem Sandbad unter Stickstoffatmosphäre auf \SI{290}{\degreeCelsius} erhitzt, bis das Lösemittel komplett verdampft ist.
+	Der Rückstand wurde in \SI{0,5}{\milli\liter} Toluol aufgenommen, \SI{1}{\milli\liter} Ethanol dazugegeben, abzentrifugiert und anschließend wieder in \SI{0,5}{\milli\liter} Toluol aufgenommen.
+	
+	\begin{table}[H]
+		\centering
+		\caption{Die verschiedenen genutzten Verhältnisse aus Goldnanopartikeln und \ch{Cu[DDTC]2}.}
+		\label{tab:Au_Cu_Ratio}
+		\begin{tabular}{ll}
+			\toprule
+			V(Au)/\si{\micro\liter}&V(\ch{Cu[DDTC]2})/\si{\micro\liter}\\
+			\midrule
+			10&100\\
+			20&100\\
+			30&100\\
+			40&100\\
+			50&100\\
+			100&100\\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
 	\subsection{Herstellung von Gelen}
+		
 		\subsubsection{Herstellung von Hydrogelen durch Yttrium und Ytterbium}
 		\todo{Ref, Was wird geamcht?}
 		
@@ -79,13 +127,16 @@
 			\paragraph{Gelierungsprozess}
 			    \begin{description}
 			    \item[Gele aus Gold-Nanopartikeln:]
-			    \SI{500}{\micro\liter} der Goldlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend \SI{40}{\micro\liter} einer 1\%igen Wasserstoffperoxid-Lösung gegeben und anschließend für X Tage dunkel gelagert.
+			    \SI{500}{\micro\liter} der Goldlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend \SI{40}{\micro\liter} einer 1\%igen Wasserstoffperoxid-Lösung gegeben und anschließend für 30 Tage dunkel gelagert.
 			    \item[Gele aus Silber-Nanopartikeln:]
-			    \SI{500}{\micro\liter} der Silberlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend \SI{200}{\micro\liter} einer 3\%igen Wasserstoffperoxid-Lösung gegeben und anschließend für X Tage dunkel gelagert.
+			    \SI{500}{\micro\liter} der Silberlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend \SI{200}{\micro\liter} einer 3\%igen Wasserstoffperoxid-Lösung gegeben und anschließend für 30 Tage dunkel gelagert.
 			    \item[Bimetallisches Gel aus Gold/Silber-Nanopartikeln:]
-			    \SI{500}{\micro\liter} der Goldlösung und 	\SI{500}{\micro\liter} der Silberlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend für X Tage dunkel gelagert.
+			    \SI{500}{\micro\liter} der Goldlösung und 	\SI{500}{\micro\liter} der Silberlösung werden in ein 2mL-Zentri"-fugen"-gefäß gegeben und anschließend für 30 Tage dunkel gelagert.
 			    \end{description}
-			    
+			   	
+			   	In den Gefäßen mit reinem Gold bildeten sich keine Gele und es war weiterhin nur eine rote Lösung zu erkennen.
+			   	In den Gefäßen mit reinem Silber bildete sich ein gelb-brauner Schleim am Boden, jedoch kein festes Gel.
+			   	Nur in den Gefäßen mit Gold und Silber bildeten sich Gele, die für weitere Versuche verwendet werden konnten.
 			
 		\subsubsection{Ethanolischer Ansatz für direkte Synthese von Gelen}
 			Im Gegensatz zu den vorherigen Ansätzen, sind hier Nanopartikelbildung und Gelierung keine zwei voneinander getrennte Syntheseschritte.
@@ -98,47 +149,137 @@
 			Nach einer Stunde hat sich die Lösung klar gefärbt und es hatte sich entweder ein dunkel Bodensatz gebildet oder es schwamm ein Klumpen an der Oberfläche.
 			Bei den Proben mit Bodensatz wurden die Gläser leicht schräg gehalten und gedreht, wodurch sich der Bodensatz zusammenklumpte und wie bei den anderen Proben, dieser Klumpen dann an der Oberfläche schwamm.  
 			
-	\subsection{Synthese von Kupfersulfid durch Single-Source-Precurser}
-	    Für die Synthese von Kupfersulfid wird eine thermische Zersetzung eines Kupferkomplexes genutzt. \autocite{JenLaPlante2010}
-		\subsubsection{Synthese des Single-Source-Precursors \ch{Cu[DDTC]2}}
-	        Zur Herstellung des gewünschten Precursors (\ch{Cu[DDTC]2}) werden zwei Lösungen vorbereitet: 
-    	    Einmal wurden \SI{0,2218}{\gram} \ch{CuCl2} in \SI{20}{\milli\liter} Wasser gelöst.
-	        Für die zweite Lösung wurden \SI{0,7323}{\gram} \ch{Na[DDTC]* 3 H2O} in \SI{20}{\milli\liter} Wasser gelöst.
-	        Anschließend werden beide Lösungen zusammengegeben, wobei sich direkt ein dunkler Niederschlag bildet.
-	        Dieser wird abzentrifugiert und an Luft getrocknet.
-	        Daraufhin wird es in heißem Chloroform rekristallisiert und erneut an Luft getrocknet.
-		    Das entstandene \ch{Cu[DDTC]2} wird abgewogen und in TOP aufgenommen, sodass eine 0,11 molare Lösung erhalten wird.
-		    
-		\subsubsection{Herstellung Kupfersulfid}
-		    Es werden \SI{100}{\micro\liter} der 0,11~M \ch{Cu[DDTC]2}-Lösung in ein \SI{8}{\milli\liter}-Schraubdeckelgläschen gegeben, dass in einem Sandbad auf \SI{290}{\degreeCelsius} unter Stickstoffatmosphäre erhitzt wird.
-		    Dies wird solange erhitzt, bis das gesamte Lösemittel verdampft ist und ein schwarzer trockener Rückstand erkennbar ist.
-		    Dieser wird in \SI{0,5}{\milli\liter} Toluol aufgenommen, anschließend \SI{1}{\milli\liter} Methanol dazugegeben und abzentrifugiert.
-		    Der Rückstand wird in \SI{0,5}{\milli\liter} Toluol aufgenommen.
+	\subsection{Phasentransfer der Gele}
 	
-	\subsection{Synthese von CuS mit \ch{Cu[DDTC]2} und \ch{CuCl2}}
-	    Da bekannt ist, dass Chloridionen einen starken Einfluss auf das Nukleationsverhalten bei Nanopartikeln haben kann\cite{Hinrichs2016}, wurde ein Teil des Single-Source-Precursors durch \ch{CuCl2} substituiert.
-	    
-	    
-	\subsection{Synthese aus Goldnanopartikeln und Kupfer-diethyldithiocarbonat}
+			Bei den Gelen in wässriger Lösung wurde ein Austausch des Lösungsmittel vorgenommen, um Gele mit TOP als flüssige Phase zu erhalten.
+			\subsubsection{Citratstabilisierte Gele}
+				Bei den citratstabilisierten Gelen wurde im ersten Schritt das Lösemittel bis auf die Höhe des Gels  entnommen und das 2mL-Zentri"-fugen"-gefäß mit Ethanol aufgefüllt.
+				Dieser Schritt wurde insgesamt dreimal durchgeführt und nach 24 Stunden drei weitere Male.
+				Bei dem Versuch anschließend gleiches mit TOP zu versuchen, ergab sich das Problem, dass sich 2 getrennte Phasen bildeten, bei der auch nach 24 Stunden TOP, trotz höherer Dichte als Ethanol, die obere Phase bildete.
+				Aus diesem Grund wurde ein weiterer Zwischenschritt über Toluol eingebaut, bei dem analog zu Ethanol vorgegangen wurde.
+				Diesmal bildete sich bei Zugabe von TOP keine Phasentrennung und es wurde analog zu den vorherigen Schritten vorgegangen.
+				Die Gele wurden daraufhin vorsichtig in ein \SI{8}{\milli\liter}-Schraubdeckelglas überführt, indem beide Gefäße komplett mit TOP gefüllt wurden und so das Gel langsam in das Schraubdeckelglas absinken konnte.
+			
+			\subsubsection{Gele durch Zugabe von Yttrium und Ytterbium}
+				Bei diesen Gelen wurde versucht analog zu den citratstabilisierten vorzugehen.
+				Bei dem Versuch Ethanol zuzugeben, ergab sich jedoch das Problem, dass das Gel sofort nach der Zugabe von Ethanol in viele Teile zerbrach und sich im ganzen Lösungsmittel verteilte.
+				Aus diesem Grund wurde ein langsamer Phasentransfer versucht indem ein Lösemittelgemisch aus 90\% \ch{H2O} und 10\% Ethanol dazugegeben wurde.
+				Doch auch hier konnte der gleiche Effekt wie vorher beobachtet werden.
+				Auch bei dem Versuch, anstatt das alte Lösemittel zu entnehmen und mit neuem zu ersetzen, das 90:10-Gemisch auf die Oberfläche der Lösung langsam aufzutragen, ergab sich gleiches Problem.
+				Aus diesem Grund konnten diese Gele für weitere Versuche nicht verwendet werden.   
 	
-		Bei dieser Synthese wurde die CuS-Synthese, wie oben beschrieben, durchgeführt, mit einem Anteil an Gold-Nanopartikeln, mit der Absicht, dass die CuS-Bildung um die Nanopartikel herum stattfindet.	
-	    Es werden \SI{100}{\micro\liter} der 0,11~M \ch{Cu[DDTC]2}-Lösung und verschiedene Mengen (\cref{tab:Au_Cu_Ratio} der Goldnanopartikel in Hexan in ein \SI{8}{\milli\liter}-Schraubdeckelgläschen zusammengegeben und in einem Sandbad unter Stickstoffatmosphäre auf \SI{290}{\degreeCelsius} erhitzt, bis das Lösemittel komplett verdampft ist.
-	
-    \begin{table}[H]
-		\centering
-		\caption{Die verschiedenen genutzten Verhältnisse aus Goldnanopartikeln und \ch{Cu[DDTC]2}.}
-		\label{tab:Au_Cu_Ratio}
-		\begin{tabular}{ll}
-            \toprule
-            V(Au)/\si{\micro\liter}&V(\ch{Cu[DDTC]2})/\si{\micro\liter}\\
-            \midrule
-            10&100\\
-            20&100\\
-            30&100\\
-            40&100\\
-            50&100\\
-            100&100\\
-            \bottomrule
-        \end{tabular}
-    \end{table}
+	\subsection{Synthese von Kupfersulfid in Anwesenheit von Gelen}
+		
+			Die Parameter der Synthese wurden immer wieder variiert, wobei der Versuchsaufbau immer identisch ist.
+			Exemplarisch wird hier eine Synthese beschrieben:
+			
+			Zu einem Gel, dass durch ethanolischen Ansatz in direkter Synthese hergestellt wurde, in einem \SI{8}{\milli\liter}-Schraubdeckelglas wurden \SI{200}{\micro\liter} der 0.11~M~\ch{Cu[DDTC]2} in TOP Lösung hinzugegeben.
+			Das \SI{8}{\milli\liter}-Schraubdeckelglas wird daraufhin in ein Sandbad gegeben.
+			Da der Boden des Schraubdeckelglases Flach ist, und deutlicher größer als der Querschnitt der Gele, wird das Glas leicht schräg ins Sandbad gegeben mit dem Gel an der tiefsten Stelle, um eine möglichst große Fläche das Gels für eine möglichst lange Zeit in der Lösung liegen zu haben.
+			Anschließend wird eine Schutzatmosphäre aus Stickstoff eingeleitet und alles auf \SI{290}{\degreeCelsius} erhitzt.
+			Diese Temperatur wird gehalten bis das gesamte Lösemittel verdampft ist.
+			Nach dem Abkühlen werden \SI{2}{\milli\liter} Aceton zugegeben. 
+			Nach 24 Stunden wird das Aceton entnommen und \SI{2}{\milli\liter} Aceton zugegeben.
+			Dies wird zweimal wiederholt. 
+			
+			\subsubsection{Variationen der Synthese}
+				
+				\paragraph{Variation der Temperatur}
+				\qquad\newline
+					Die Synthesen wurden wie oben durchgeführt, allerdings wurde die Reaktionstemperatur variiert, wie \cref{tab:Temperatur} zeigt.
+					
+					\begin{table}[htbp]
+						\centering
+						\caption{Überblick über die verwendeten Reaktionstemperaturen}
+						\label{tab:Temperatur}
+						\begin{tabular}{cc}
+							\toprule
+							Probe & Temperatur/\si{\degreeCelsius}\\
+							\midrule
+							T1 & 290\\
+							T2 & 250\\
+							T3 & 200\\
+							\bottomrule
+						\end{tabular}
+					\end{table}
+				
+				\paragraph{Variation des Metalls im Single-Source-Precursor}
+				\qquad\newline
+					Neben Kupfer als \ch{Cu[DDTC]2}-Komplex wurden auch Zink und Cadmium als \ch{Zn[DDTC]2} bzw. \ch{Cd[DDTC]2}-Komplex verwendet.
+					
+				\paragraph{Zusatz von Chlorid}
+				\qquad\newline
+					Zusätzlich zum Metallkomplex wurde hier eine bestimmte Menge des entsprechenden Metallchlorids zugegeben.
+					Diese Versuche wurden für Cadmium und Zink durchgeführt.
+					Das Metallchlorid wurde dabei in TOP gelöst und auf die gleiche Konzentration wie der Metallkomplex angepasst.
+					Da sich die Metallchloride nur sehr schlecht lösten, wurden sie für 30 Minuten in ein Ultraschallbad gelegt.
+					Außerdem wurden die Lösungen vor Gebrauch immer für 15 Minuten in ein Ultraschallbad gehalten. 
+					Die verwendeten Mengenverhältnisse können \cref{tab:Chlorid} entnommen werden.
+					
+					\begin{table}[htbp]
+						\centering
+						\caption{Überblick über die verwendeten Mengen von Komplex und Chlorid-Lösung}
+						\label{tab:Chlorid}
+						\begin{tabular}{cccc}
+							\toprule
+							Metall & V(Komplex)/\si{\micro\liter} & V(Chlorid)\si{\micro\liter} & Verhältnis \\ 
+							\midrule
+							Cd & 160 & 40 & 4:1\\
+							Zn & 160 & 40 & 4:1\\
+							Cd & 100 & 100 & 1:1\\
+							Zn & 100 & 100 & 1:1\\
+							Cd & 180 & 18 & 10:1\\
+							Zn & 180 & 18 & 10:1\\
+							\bottomrule
+						\end{tabular}
+					\end{table}
+				
+				\paragraph{Variation der Konzentration}
+				\qquad\newline
+					Die Konzentration der \ch{Cd[DDTC]2} - Lösung wurde variiert. 
+					Dabei wurden sowohl Konzentrationsänderungen durchgeführt, als auch Chloridanteile variiert.
+					Die Cadmiumchlorid Konzentration der Lösung wurde dabei der Komplexkonzentration angepasst.  
+					
+					\begin{table}[htbp]
+						\centering
+						\caption{Überblick der verwendeten Konzentrationen und Chloridanteile}
+						\label{tab:Konz-Chlorid}
+						\begin{tabular}{cccc}
+							\toprule
+							Konzentration/\si{\mol\liter\tothe{-1}}& V(\ch{Cd[DDTC]2})/\si{\micro\liter} & V(\ch{CdCl2})/\si{\micro\liter} & Verhältnis\\
+							\midrule
+							0,05 & 200 & 0 &-\\
+							0,05 & 160 & 40 & 4:1\\
+							0,05 & 100 & 100 & 1:1\\
+							0,05 & 180 & 20 & 10:1\\
+							0,01 & 200 & 0 &-\\
+							\bottomrule
+						\end{tabular}
+					\end{table}
+				
+			\paragraph{Variation des Gels}
+			\qquad\newline
+				Neben den ethanolischen Gelen wurde das Gel geändert und die citratstabilisierten bimetallischen Au/Ag-Gele verwendet.
+				Hier wurde sich auf Cadmium als Metall beschränkt und verschiedene Chloridmengen verwendet.
+				
+				\begin{table}[htbp]
+					\centering
+					\caption{Verwendete Mengenverhältnisse von \ch{Cd[DDTC]2} und \ch{CdCl2} bei Au/Ag-Gelen}
+					\label{tab:}
+					\begin{tabular}{ccc}
+						\toprule
+						 V(\ch{Cd[DDTC]2})/\si{\micro\liter} & V(\ch{CdCl2})/\si{\micro\liter} & Verhältnis\\
+						\midrule
+						200 & 0 & -\\
+						160 & 40 & 4:1\\
+						100 & 100 & 1:1\\ 
+						\bottomrule
+					\end{tabular}
+				\end{table}
+				
+				
+					
+					
+			
+			
 	

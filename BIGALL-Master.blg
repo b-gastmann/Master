@@ -1,0 +1,41 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'BIGALL-Master.blg'
+[45] biber-MSWIN32:313> INFO - === 
+[115] Biber.pm:371> INFO - Reading 'BIGALL-Master.bcf'
+[229] Biber.pm:857> INFO - Found 28 citekeys in bib section 0
+[244] Biber.pm:3976> INFO - Processing section 0
+[270] Biber.pm:4136> INFO - Looking for bibtex format file 'Literatur.bib' for section 0
+[288] bibtex.pm:1500> INFO - LaTeX decoding ...
+[425] bibtex.pm:1316> INFO - Found BibTeX data source 'Literatur.bib'
+[436] Utils.pm:193> WARN - month field 'nov' in entry 'Lamer1950' is not an integer - this will probably not sort properly.
+[444] Utils.pm:193> WARN - month field 'jun' in entry 'Park2007' is not an integer - this will probably not sort properly.
+[447] Utils.pm:193> WARN - month field 'feb' in entry 'Mulvaney1996' is not an integer - this will probably not sort properly.
+[458] Utils.pm:193> WARN - month field 'oct' in entry 'Hu2006' is not an integer - this will probably not sort properly.
+[474] Utils.pm:193> WARN - month field 'jan' in entry 'Xu1999' is not an integer - this will probably not sort properly.
+[480] Utils.pm:193> WARN - month field 'jan' in entry 'Kelly2003' is not an integer - this will probably not sort properly.
+[486] Utils.pm:193> WARN - month field 'apr' in entry 'Mock2003' is not an integer - this will probably not sort properly.
+[491] Utils.pm:193> WARN - month field 'aug' in entry 'Haes2004' is not an integer - this will probably not sort properly.
+[501] Utils.pm:193> WARN - month field 'dec' in entry 'Kulakovich2002' is not an integer - this will probably not sort properly.
+[511] Utils.pm:193> WARN - month field 'feb' in entry 'Viste2010' is not an integer - this will probably not sort properly.
+[522] Utils.pm:193> WARN - month field 'aug' in entry 'Chen2008' is not an integer - this will probably not sort properly.
+[529] Utils.pm:193> WARN - month field 'dec' in entry 'Lee2004' is not an integer - this will probably not sort properly.
+[535] Utils.pm:193> WARN - month field 'jun' in entry 'Costi2010' is not an integer - this will probably not sort properly.
+[552] Utils.pm:193> WARN - month field 'oct' in entry 'Aleman2007' is not an integer - this will probably not sort properly.
+[561] Utils.pm:193> WARN - month field 'oct' in entry 'Ziegler2017' is not an integer - this will probably not sort properly.
+[565] Utils.pm:193> WARN - month field 'dec' in entry 'Mohanan2004' is not an integer - this will probably not sort properly.
+[570] Utils.pm:193> WARN - month field 'jan' in entry 'Mohanan2005' is not an integer - this will probably not sort properly.
+[584] Utils.pm:193> WARN - month field 'dec' in entry 'Bigall2009' is not an integer - this will probably not sort properly.
+[598] Utils.pm:193> WARN - month field 'mar' in entry 'Cai2018' is not an integer - this will probably not sort properly.
+[615] Utils.pm:193> WARN - month field 'sep' in entry 'Shi2018' is not an integer - this will probably not sort properly.
+[624] Utils.pm:193> WARN - month field 'oct' in entry 'Zhu2016' is not an integer - this will probably not sort properly.
+[640] Utils.pm:193> WARN - month field 'sep' in entry 'Shi2017' is not an integer - this will probably not sort properly.
+[653] Utils.pm:193> WARN - month field 'jun' in entry 'Wang2019' is not an integer - this will probably not sort properly.
+[664] Utils.pm:193> WARN - month field 'may' in entry 'Linic2015' is not an integer - this will probably not sort properly.
+[676] Utils.pm:193> WARN - month field 'may' in entry 'Gao2016' is not an integer - this will probably not sort properly.
+[737] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[737] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[737] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[737] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[791] bbl.pm:617> INFO - Writing 'BIGALL-Master.bbl' with encoding 'UTF-8'
+[810] bbl.pm:720> INFO - Output to BIGALL-Master.bbl
+[815] Biber.pm:110> INFO - WARNINGS: 25
