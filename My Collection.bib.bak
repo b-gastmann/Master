@@ -1,0 +1,34 @@
+% Encoding: UTF-8
+@article{Gill2009,
+abstract = {Monolithic mesoporous aerogels comprising cadmium sulfide nanoparticles partially coated with metallic silver (CdS-Ag) are synthesized, and it is determined that the concentration of silver has a significant impact on the resultant CdS-Ag aerogel morphology and porosity. {\textcopyright} The Royal Society of Chemistry 2009.},
+author = {Gill, Simerjeet K. and Hope-Weeks, Louisa J.},
+doi = {10.1039/b903044a},
+file = {:D$\backslash$:/Mendeley Desktop/DATA/Gill, Hope-Weeks - 2009 - Monolithic aerogels of silver modified cadmium sulfide colloids.pdf:pdf},
+issn = {13597345},
+journal = {Chemical Communications},
+month = {jul},
+number = {29},
+pages = {4384--4386},
+publisher = {Royal Society of Chemistry},
+title = {{Monolithic aerogels of silver modified cadmium sulfide colloids}},
+volume = {0},
+year = {2009}
+}
+@article{Gill2011,
+abstract = {Monolithic aerogels composed of cadmium sulfide nanoparticles partially modified with metallic gold (CdS-Au) are reported. The semiconductor-metal nanoparticles are synthesized using an inverse micelle media of Bis-(2-ethylhexyl)sulfosuccinate sodium salt (AOT) in heptane, followed by capping with 4-fluorothiophenol and precipitation with triethylamine. The nanoparticles are then dispersed in acetone and gel formation is achieved using nanoparticle condensation strategy. The resultant CdS-Au aerogel materials are mesoporous, with an interconnected network of semiconductor-metal nanoparticles. A detailed microstructure analysis of the semiconductor-metal aerogels via transmission electron microscopy indicates that the final gold concentration significantly impacts the semiconductor-metal aerogel morphology and porosity. {\textcopyright} 2010 Springer Science+Business Media, LLC.},
+author = {Gill, Simerjeet K. and Brown, Preston and Hope-Weeks, Louisa J.},
+doi = {10.1007/s10971-010-2325-3},
+file = {:D$\backslash$:/Mendeley Desktop/DATA/Gill, Brown, Hope-Weeks - 2011 - Gold modified cadmium sulfide aerogels.pdf:pdf},
+issn = {09280707},
+journal = {Journal of Sol-Gel Science and Technology},
+keywords = {CdS-Au,Chalcogenide aerogel,Sol-gel},
+month = {jan},
+number = {1},
+pages = {68--75},
+publisher = {Springer US},
+title = {{Gold modified cadmium sulfide aerogels}},
+volume = {57},
+year = {2011}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
