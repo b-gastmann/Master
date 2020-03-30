@@ -19,6 +19,456 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{Afzaal2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b0ce7d6e0a0902792889a6c4b032e171}{%
+           family={Afzaal},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=71c436cd9183ab26165f848d9072ec7b}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7340ce571737a391bc93b78c77be7c6c}
+      \strng{fullhash}{7340ce571737a391bc93b78c77be7c6c}
+      \strng{bibnamehash}{7340ce571737a391bc93b78c77be7c6c}
+      \strng{authorbibnamehash}{7340ce571737a391bc93b78c77be7c6c}
+      \strng{authornamehash}{7340ce571737a391bc93b78c77be7c6c}
+      \strng{authorfullhash}{7340ce571737a391bc93b78c77be7c6c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Compound semiconductors formed from II-VI or III-VI elements are key materials in plans to harvest energy directly from sunlight in photovoltaic devices. This review summarises the recent advances in thin film deposition and nanocrystallite synthesis. Current work has significant potential for low-cost, scalable solar cells. The close interplay between the properties of the materials and their utility in solar cells is also briefly discussed. {©} The Royal Society of Chemistry 2006.}
+      \field{issn}{09599428}
+      \field{journaltitle}{Journal of Materials Chemistry}
+      \field{number}{17}
+      \field{title}{{Recent developments in II-VI and III-VI semiconductors and their applications in solar cells}}
+      \field{volume}{16}
+      \field{year}{2006}
+      \field{pages}{1597\bibrangedash 1602}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1039/b512182e
+      \endverb
+      \verb{file}
+      \verb :E$\backslash$:/Mendeley PDF/Afzaal, O'Brien - 2006 - Recent developments in II-VI and III-VI semiconductors and their applications in solar cells.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Cai2006}{article}{}
+      \name{author}{8}{}{%
+        {{hash=21cf8f67ef6a518f3b2f80a656a5a1b4}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Weibo},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8239f4937c826635652be453abc3e45a}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Dong\bibnamedelima Woon},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=ee3f7d7b96add98106db907e189d6c13}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c6ce2b74d5366b501d585f9dd35493a9}{%
+           family={Gheysens},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=6f896e1e03763d6b403295aa13075781}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Qizhen},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7ffd87d3ec606564c03010889140648d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shan\bibnamedelima X.},
+           giveni={S\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=4be2bd8046c818733bcc404f6967f5f1}{%
+           family={Gambhir},
+           familyi={G\bibinitperiod},
+           given={Sanjiv\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3651aa0feb81ace68df380b6dbf12cf1}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaoyuan},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{1af6681ff26e7f5b967b57d21bb98d1d}
+      \strng{fullhash}{6dad0cbe81ed64ca8c66f039824fc693}
+      \strng{bibnamehash}{1af6681ff26e7f5b967b57d21bb98d1d}
+      \strng{authorbibnamehash}{1af6681ff26e7f5b967b57d21bb98d1d}
+      \strng{authornamehash}{1af6681ff26e7f5b967b57d21bb98d1d}
+      \strng{authorfullhash}{6dad0cbe81ed64ca8c66f039824fc693}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We report the in vivo targeting and imaging of tumor vasculature using arginine-glycine-aspartic acid (RGD) peptide-labeled quantum dots (QDs). Athymic nude mice bearing subcutaneous U87MG human glioblastoma tumors were administered QD705-RGD intravenously. The tumor fluorescence intensity reached maximum at 6 h postinjection with good contrast. The results reported here open up new perspectives for integrin-targeted near-infrared optical imaging and may aid in cancer detection and management including imaging-guided surgery. {©} 2006 American Chemical Society.}
+      \field{issn}{15306984}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Peptide-labeled near-infrared quantum dots for imaging tumor vasculature in living subjects}}
+      \field{volume}{6}
+      \field{year}{2006}
+      \field{pages}{669\bibrangedash 676}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/nl052405t
+      \endverb
+      \verb{file}
+      \verb :E$\backslash$:/Mendeley PDF/Cai et al. - 2006 - Peptide-labeled near-infrared quantum dots for imaging tumor vasculature in living subjects.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Law2005}{article}{}
+      \name{author}{5}{}{%
+        {{hash=78e25af7788da259768e70e2bacf48a1}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0ee24b331314d0ba7af810ee8e77d08d}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Lori\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0bb149f94dc1510986aa86751f1f0e33}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Justin\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a217c79b008fe22407e383529ab25de5}{%
+           family={Saykally},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5c86959061c9381516e7f83140a675bb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Peidong},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{37b68b3e6266ef35171839b5961d8c6b}
+      \strng{fullhash}{dc251d37b7f2ec68e6d778734ab829fa}
+      \strng{bibnamehash}{37b68b3e6266ef35171839b5961d8c6b}
+      \strng{authorbibnamehash}{37b68b3e6266ef35171839b5961d8c6b}
+      \strng{authornamehash}{37b68b3e6266ef35171839b5961d8c6b}
+      \strng{authorfullhash}{dc251d37b7f2ec68e6d778734ab829fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14761122}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Nanowire dye-sensitized solar cells}}
+      \field{volume}{4}
+      \field{year}{2005}
+      \field{pages}{455\bibrangedash 459}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nmat1387
+      \endverb
+    \endentry
+    \entry{Yan2003}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2d6cf85b179d2c712f83bcb495461e9d}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Haoquan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7c8eb03b249b27f8d38c652c78b510ae}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Rongrui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=90edc587e1d523d4e173b1fe6e733445}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e5a186fc9321ab7e11d8d11241cd8cf3}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=44dcc91b3dc9a4a2c1b39b82c255def1}{%
+           family={Saykally},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5c86959061c9381516e7f83140a675bb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Peidong},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b71bc1d80621f22f1daeff75abd20642}
+      \strng{fullhash}{797b5c14be989ee306089528047649b5}
+      \strng{bibnamehash}{b71bc1d80621f22f1daeff75abd20642}
+      \strng{authorbibnamehash}{b71bc1d80621f22f1daeff75abd20642}
+      \strng{authornamehash}{b71bc1d80621f22f1daeff75abd20642}
+      \strng{authorfullhash}{797b5c14be989ee306089528047649b5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Self-organized dendritic crystal growth is explored to assemble uniform semiconductor nanowires into highly ordered one-dimensional microscale arrays that resemble comb structures. The individual ZnO nanowires have uniform diameters ranging from 10 to 300 nm. They are evenly spaced on a stem with a regular periodicity of 0.1-2 $\mu$m. Under optical excitation, each individual ZnO nanowire serves as a Fabry-Perot optical cavity, and together they form a highly ordered nanowire ultraviolet laser array. Copyright {©} 2003 American Chemical Society.}
+      \field{issn}{00027863}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{4}
+      \field{number}{16}
+      \field{title}{{Dendritic nanowire ultraviolet laser array}}
+      \field{volume}{125}
+      \field{year}{2003}
+      \field{pages}{4728\bibrangedash 4729}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja034327m
+      \endverb
+      \verb{file}
+      \verb :E$\backslash$:/Mendeley PDF/Yan et al. - 2003 - Dendritic nanowire ultraviolet laser array.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Nahar2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=be1578fdd6ecd47e9ab38f61e8643fb7}{%
+           family={Nahar},
+           familyi={N\bibinitperiod},
+           given={Lamia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4123652f40d7dcadb455cbac6d0663d2}{%
+           family={Esteves},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima J.Alan},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=11a43500cc03a087872d444511b965b4}{%
+           family={Hafiz},
+           familyi={H\bibinitperiod},
+           given={Shopan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=007f7ca34c305f4f095a0643bbbfbe4b}{%
+           family={{Ö}zg{ü}r},
+           familyi={Ö\bibinitperiod},
+           given={{Ü}mit},
+           giveni={Ü\bibinitperiod}}}%
+        {{hash=bb28a002412b85a9e52ec8bee3ad9c5a}{%
+           family={Arachchige},
+           familyi={A\bibinitperiod},
+           given={Indika\bibnamedelima U.},
+           giveni={I\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{6b23e48df33698d5c4af75da6eebdcae}
+      \strng{fullhash}{1f7b6634ac5c180b6505bc14c82a96e4}
+      \strng{bibnamehash}{6b23e48df33698d5c4af75da6eebdcae}
+      \strng{authorbibnamehash}{6b23e48df33698d5c4af75da6eebdcae}
+      \strng{authornamehash}{6b23e48df33698d5c4af75da6eebdcae}
+      \strng{authorfullhash}{1f7b6634ac5c180b6505bc14c82a96e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hybrid nanomaterials composed of metal-semiconductor components exhibit unique properties in comparison to their individual counterparts, making them of great interest for optoelectronic applications. Theoretical and experimental studies suggest that interfacial interactions of individual components are of paramount importance to produce hybrid electronic states. The direct cross-linking of nanoparticles (NPs) via controlled removal of the surfactant ligands provides a route to tune interfacial interactions in a manner that has not been thoroughly investigated. Herein, we report the synthesis of CdSe/Ag heteronanostructures (aerogels) via oxidation induced self-assembly of thiol-coated NPs and the evolution of optical properties as a function of composition. Three hybrid systems were investigated, where the first and second excitonic energies of CdSe were matched with plasmonic energy of Au or Ag NPs and Ag hollow NPs. Physical characterization of the aerogels suggests the presence of an interconnected network of hexagonal CdSe and cubic Ag NPs. The optical properties of hybrids were systematically examined through UV-vis, photoluminescence (PL), and time-resolved (TR) PL spectroscopic studies that indicate the generation of alternate radiative decay pathways. A new emission (640 nm) from CdSe/Ag aerogels emerged at Ag loading as low as 0.27{\%}, whereas absorption band tailing and PL quenching effects were observed at higher Ag and Au loading, respectively. The TRPL decay time of the new emission (600 ns) is markedly different from those of the band-edge (1.83 ± 0.03 ns) and trap-state (1190 ± 120 ns) emission maxima of phase pure CdSe, supporting the existence of alternate radiative relaxation pathways in sol-gel derived CdSe/Ag hybrids.}
+      \field{issn}{1936086X}
+      \field{journaltitle}{ACS Nano}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Metal-Semiconductor Hybrid Aerogels: Evolution of Optoelectronic Properties in a Low-Dimensional CdSe/Ag Nanoparticle Assembly}}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{9810\bibrangedash 9821}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1021/acsnano.5b02777
+      \endverb
+      \verb{file}
+      \verb :E$\backslash$:/Mendeley PDF/Nahar et al. - 2015 - Metal-Semiconductor Hybrid Aerogels Evolution of Optoelectronic Properties in a Low-Dimensional CdSeAg Nanoparticl.pdf:pdf
+      \endverb
+      \keyw{bandgap,metal-semiconductor hybrids,nanoparticle assembly,photoluminescence,sol-gel synthesis}
+    \endentry
+    \entry{Lesnyak2011}{article}{}
+      \name{author}{8}{}{%
+        {{hash=cd507f604f4c872214c431fd1512f145}{%
+           family={Lesnyak},
+           familyi={L\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4f71ae24b1a2ecfdc9b88b7e30499df3}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Andr{é}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=975f9e84932199224c6d9fb81d2313c4}{%
+           family={Dubavik},
+           familyi={D\bibinitperiod},
+           given={Aliaksei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f63642f988b1ee20d80934a78191c353}{%
+           family={Borchardt},
+           familyi={B\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=69b38f7de2f18c1af067520457f4589a}{%
+           family={Voitekhovich},
+           familyi={V\bibinitperiod},
+           given={Sergei\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=59158f3d6013b035629b6d20a675a64a}{%
+           family={Gaponik},
+           familyi={G\bibinitperiod},
+           given={Nikolai},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d0bd389b9da7e94ee5aab152faeb4aa0}{%
+           family={Kaskel},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e1b1b835dc16748fb10e8afe95b93af2}{%
+           family={Eychm{ü}ller},
+           familyi={E\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{49dd52baec1736a0d34b23639e0b255b}
+      \strng{fullhash}{5ca1b9d01f089618fd20771ad20f96c8}
+      \strng{bibnamehash}{49dd52baec1736a0d34b23639e0b255b}
+      \strng{authorbibnamehash}{49dd52baec1736a0d34b23639e0b255b}
+      \strng{authornamehash}{49dd52baec1736a0d34b23639e0b255b}
+      \strng{authorfullhash}{5ca1b9d01f089618fd20771ad20f96c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A 3D metal ion assisted assembly of nanoparticles has been developed. The approach relies on the efficient complexation of cadmium ions and 5-mercaptomethyltetrazole employed as the stabilizer of both colloidal CdTe and Au nanoparticles. It enables in a facile way the formation of hybrid metal-semiconductor 3D structures with controllable and tunable composition in aqueous media. By means of critical point drying, these assemblies form highly porous aerogels. The hybrid architectures obtained are characterized by electron microscopy, nitrogen adsorption, and optical spectroscopy methods. {©} 2011 American Chemical Society.}
+      \field{issn}{00027863}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{8}
+      \field{number}{34}
+      \field{title}{{3D assembly of semiconductor and metal nanocrystals: Hybrid CdTe/Au structures with controlled content}}
+      \field{volume}{133}
+      \field{year}{2011}
+      \field{pages}{13413\bibrangedash 13420}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/ja202068s
+      \endverb
+      \verb{file}
+      \verb :E$\backslash$:/Mendeley PDF/Lesnyak et al. - 2011 - 3D assembly of semiconductor and metal nanocrystals Hybrid CdTeAu structures with controlled content.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/ja202068s
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/ja202068s
+      \endverb
+    \endentry
+    \entry{Gill2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1883e47691b4556d32c51f942bb03feb}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Simerjeet\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3daf0ee948bfea7c5a4ad52d5385d6e1}{%
+           family={Hope-Weeks},
+           familyi={H\bibinithyphendelim W\bibinitperiod},
+           given={Louisa\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{716c26c6442936e3b052e561bbb8edab}
+      \strng{fullhash}{716c26c6442936e3b052e561bbb8edab}
+      \strng{bibnamehash}{716c26c6442936e3b052e561bbb8edab}
+      \strng{authorbibnamehash}{716c26c6442936e3b052e561bbb8edab}
+      \strng{authornamehash}{716c26c6442936e3b052e561bbb8edab}
+      \strng{authorfullhash}{716c26c6442936e3b052e561bbb8edab}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Monolithic mesoporous aerogels comprising cadmium sulfide nanoparticles partially coated with metallic silver (CdS-Ag) are synthesized, and it is determined that the concentration of silver has a significant impact on the resultant CdS-Ag aerogel morphology and porosity. {©} The Royal Society of Chemistry 2009.}
+      \field{issn}{13597345}
+      \field{journaltitle}{Chemical Communications}
+      \field{month}{7}
+      \field{number}{29}
+      \field{title}{{Monolithic aerogels of silver modified cadmium sulfide colloids}}
+      \field{volume}{0}
+      \field{year}{2009}
+      \field{pages}{4384\bibrangedash 4386}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1039/b903044a
+      \endverb
+      \verb{file}
+      \verb :D$\backslash$:/Mendeley Desktop/DATA/Gill, Hope-Weeks - 2009 - Monolithic aerogels of silver modified cadmium sulfide colloids.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Gill2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1883e47691b4556d32c51f942bb03feb}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Simerjeet\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=246346b2a9d6e69928e3b1491d66d903}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Preston},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3daf0ee948bfea7c5a4ad52d5385d6e1}{%
+           family={Hope-Weeks},
+           familyi={H\bibinithyphendelim W\bibinitperiod},
+           given={Louisa\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{bc145680d71141ed7ca31bf074bfd09f}
+      \strng{fullhash}{bc145680d71141ed7ca31bf074bfd09f}
+      \strng{bibnamehash}{bc145680d71141ed7ca31bf074bfd09f}
+      \strng{authorbibnamehash}{bc145680d71141ed7ca31bf074bfd09f}
+      \strng{authornamehash}{bc145680d71141ed7ca31bf074bfd09f}
+      \strng{authorfullhash}{bc145680d71141ed7ca31bf074bfd09f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Monolithic aerogels composed of cadmium sulfide nanoparticles partially modified with metallic gold (CdS-Au) are reported. The semiconductor-metal nanoparticles are synthesized using an inverse micelle media of Bis-(2-ethylhexyl)sulfosuccinate sodium salt (AOT) in heptane, followed by capping with 4-fluorothiophenol and precipitation with triethylamine. The nanoparticles are then dispersed in acetone and gel formation is achieved using nanoparticle condensation strategy. The resultant CdS-Au aerogel materials are mesoporous, with an interconnected network of semiconductor-metal nanoparticles. A detailed microstructure analysis of the semiconductor-metal aerogels via transmission electron microscopy indicates that the final gold concentration significantly impacts the semiconductor-metal aerogel morphology and porosity. {©} 2010 Springer Science+Business Media, LLC.}
+      \field{issn}{09280707}
+      \field{journaltitle}{Journal of Sol-Gel Science and Technology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Gold modified cadmium sulfide aerogels}}
+      \field{volume}{57}
+      \field{year}{2011}
+      \field{pages}{68\bibrangedash 75}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s10971-010-2325-3
+      \endverb
+      \verb{file}
+      \verb :D$\backslash$:/Mendeley Desktop/DATA/Gill, Brown, Hope-Weeks - 2011 - Gold modified cadmium sulfide aerogels.pdf:pdf
+      \endverb
+      \keyw{CdS-Au,Chalcogenide aerogel,Sol-gel}
+    \endentry
     \entry{Lamer1950}{article}{}
       \name{author}{2}{}{%
         {{hash=307d45db36710ee08d546b43c009b170}{%
@@ -38,8 +488,8 @@
       \strng{authorbibnamehash}{b0860db18eced3a6339111e2bd8fc2b0}
       \strng{authornamehash}{b0860db18eced3a6339111e2bd8fc2b0}
       \strng{authorfullhash}{b0860db18eced3a6339111e2bd8fc2b0}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{1. Monodispersed colloids exhibiting higher order Tyndall spectra have been prepared by precipitation of sulfur from ethanol and acetone solutions by the careful addition of water. 2. The relationship between the concentration of sulfur and the volume fraction of water at the critical point of sulfur-ethanol-water solutions has been investigated. 3. Sols prepared by this dilution method have been investigated as to dispersion of wave length in their angular scattering of visible light and their transmission as a function of wave length. 4. The size, number and charge of the particles of such sols are in the same range as those prepared by the acid decomposition of sodium thiosulfate. 5. The rates of growth of sols prepared by such a dilution method have been investigated. The growth rates obtained have been reproduced from previous theoretical considerations which allow the estimation of the value of the diffusion coefficient of S8 in alcohol-water and acetone-water mixtures. The value of this diffusion coefficient lies in the range 7-8 × 10−6 cm.2/sec. for both media. The application of this method for estimating diffusion coefficients is valid for any colloidal system that is characterized by a small particle size distribution at all stages of its growth. 6. A qualitative explanation is offered for the necessary conditions under which monodispersed colloids may be prepared for both the dilution and acid decomposition of sodium thiosulfate methods. {©} 1950, American Chemical Society. All rights reserved.}
@@ -96,8 +546,8 @@
       \strng{authorbibnamehash}{36e9e78d096b29505d688874eb10e441}
       \strng{authornamehash}{36e9e78d096b29505d688874eb10e441}
       \strng{authorfullhash}{56492643f5e830c0903a804420673803}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In den vergangenen zehn Jahren wurden bei der Synthese monodisperser sph{ä}rischer Nanokristalle gro{ß}e Fortschritte erzielt.}
@@ -112,6 +562,56 @@
       \range{pages}{32}
       \verb{doi}
       \verb 10.1002/ange.200603148
+      \endverb
+    \endentry
+    \entry{Thanh2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2c154e419703796ffd35ea07b418e925}{%
+           family={Thanh},
+           familyi={T\bibinitperiod},
+           given={Nguyen\bibnamedelimb T.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c23b5bb1e249dbb117e049d610f7aa73}{%
+           family={Maclean},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=148027e562e98f7261f8dfbe873e1667}{%
+           family={Mahiddine},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \strng{fullhash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \strng{bibnamehash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \strng{authorbibnamehash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \strng{authornamehash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \strng{authorfullhash}{3a0ff47a35de6260b0dae0b759af12c6}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0009-2665}
+      \field{journaltitle}{Chemical Reviews}
+      \field{month}{8}
+      \field{number}{15}
+      \field{title}{{Mechanisms of Nucleation and Growth of Nanoparticles in Solution}}
+      \field{volume}{114}
+      \field{year}{2014}
+      \field{pages}{7610\bibrangedash 7630}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1021/cr400544s
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/cr400544s
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/cr400544s
       \endverb
     \endentry
     \entry{Mulvaney1996}{article}{}
@@ -131,8 +631,8 @@
       \strng{authorbibnamehash}{be46ee8e16a6b596f70e32b9c4023b36}
       \strng{authornamehash}{be46ee8e16a6b596f70e32b9c4023b36}
       \strng{authorfullhash}{be46ee8e16a6b596f70e32b9c4023b36}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The use of optical measurements to monitor electrochemical changes on the surface of nanosized metal particles is discussed within the Drude model. The absorption spectrum of a metal sol in water is shown to be strongly affected by cathodic or anodic polarization, chemisorption, metal adatom deposition, and alloying. Anion adsorption leads to strong damping of the free electron absorption. Cathodic polarization leads to anion desorption. Underpotential deposition (upd) of electropositive metal layers results in dramatic blue-shifts of the surface plasmon band of the substrate. The deposition of just 0.1 monolayer can be readily detected by eye. In some cases alloying occurs spontaneously during upd. Alloy formation can be ascertained from the optical absorption spectrum in the case of gold deposition onto silver sols. The underpotential deposition of silver adatoms onto palladium leads to the formation of a homogeneous silver shell, but the mean free path is less than predicted, due to lattice strain in the shell.}
@@ -201,8 +701,8 @@
       \strng{authorbibnamehash}{254550f45360ba9c5c69a9daed4726f2}
       \strng{authornamehash}{254550f45360ba9c5c69a9daed4726f2}
       \strng{authorfullhash}{25dae721cd608335099631b55e6e2808}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The surface plasmon resonance peaks of gold nanostructures can be tuned from the visible to the near infrared region by controlling the shape and structure (solid vs. hollow). In this tutorial review we highlight this concept by comparing four typical examples: nanospheres, nanorods, nanoshells, and nanocages. A combination of this optical tunability with the inertness of gold makes gold nanostructures well suited for various biomedical applications. {©} The Royal Society of Chemistry 2006.}
@@ -251,8 +751,8 @@
       \strng{authorbibnamehash}{6d95e299587f26206dcf59dd8b269c6a}
       \strng{authornamehash}{6d95e299587f26206dcf59dd8b269c6a}
       \strng{authorfullhash}{f29906ed2a1fe04d96fe477c1659a214}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We demonstrate the detection of molecular vibrations in single hemoglobin (Hb) protein molecules attached to isolated and immobilized silver nanoparticles by surface enhanced Raman scattering (SERS). A comparison between calculation and experiment indicates that electromagnetic field effects dominate the surface enhancement, and that single molecule Hb SERS is possible only for molecules situated between Ag particles. The vibrational spectra exhibit temporal fluctuations of unknown origin which appear to be characteristic of the single molecule detection limit. {©} 1999 The American Physical Society.}
@@ -301,8 +801,8 @@
       \strng{authorbibnamehash}{5c522fb578e3e3d7c05cdea9d9ab76a4}
       \strng{authornamehash}{5c522fb578e3e3d7c05cdea9d9ab76a4}
       \strng{authorfullhash}{06d9d5080c26c57e0322fd3905075641}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The optical properties of metal nanoparticles have long been of interest in physical chemistry, starting with Faraday's investigations of colloidal gold in the middle 1800s. More recently, new lithographic techniques as well as improvements to classical wet chemistry methods have made it possible to synthesize noble metal nanoparticles with a wide range of sizes, shapes, and dielectric environments. In this feature article, we describe recent progress in the theory of nanoparticle optical properties, particularly methods for solving Maxwell's equations for light scattering from particles of arbitrary shape in a complex environment. Included is a description of the qualitative features of dipole and quadrupole plasmon resonances for spherical particles; a discussion of analytical and numerical methods for calculating extinction and scattering cross-sections, local fields, and other optical properties for nonspherical particles; and a survey of applications to problems of recent interest involving triangular silver particles and related shapes.}
@@ -346,8 +846,8 @@
       \strng{authorbibnamehash}{c07d1b3a94a022f92791ace277dac1ed}
       \strng{authornamehash}{c07d1b3a94a022f92791ace277dac1ed}
       \strng{authorfullhash}{c07d1b3a94a022f92791ace277dac1ed}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present an experimental optical darkfield microscope study of the dependence of the plasmon resonance spectrum of individual silver nanoparticles on the local index of refraction. We systematically characterize the position of the resonance peaks associated with the same set of individual silver nanoparticles embedded sequentially in index oils with increasing refractive index. This technique effectively allows the local refractive index to be stepped in increments of 0.04. As the local index is increased, the spectrum from each of the nanoparticles generally undergoes a very regular and reproducible red shift; however, we find that the amount of red shift per index increase varies depending on the shape of the nanoparticle and the mode of excitation. In particular, we find that the spectral peak that occurs in triangular nanoparticles exhibits a noticeably larger red shift than that associated with the dipole mode corresponding to spherical nanoparticles. Our results are consistent with experiments performed on ensembles of similar nanoparticles and suggest that individual nanoparticles may be utilized in biosensing applications where currently ensembles are being investigated.}
@@ -386,8 +886,8 @@
       \strng{authorbibnamehash}{5e0f7b89a77990dc82ea0136df3926e6}
       \strng{authornamehash}{5e0f7b89a77990dc82ea0136df3926e6}
       \strng{authorfullhash}{5e0f7b89a77990dc82ea0136df3926e6}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The intense colors of noble metal nanoparticles have inspired artists and fascinated scientists for hundreds of years. In this review, we describe refractive index sensing platforms based on the tunability of the localized surface plasmon resonance (LSPR) of arrays of silver nanoparticles and of single nanoparticles. Specifically, the color associated with single nanoparticles and surface-confined nanoparticle arrays will be shown to be tunable and useful as platforms for chemical and biological sensing. Finally, the LSPR nanosensor will be compared to traditional, flat surface, propagating surface plasmon resonance sensors. {©} Springer-Verlag 2004.}
@@ -685,8 +1185,8 @@
       \strng{authorbibnamehash}{a21eab3166497e17c83edcd339c2906a}
       \strng{authornamehash}{a21eab3166497e17c83edcd339c2906a}
       \strng{authorfullhash}{a21eab3166497e17c83edcd339c2906a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1521-3757}
@@ -782,8 +1282,8 @@
       \strng{authorbibnamehash}{e5b69c654bba9cdadbe79944b1dc9025}
       \strng{authornamehash}{e5b69c654bba9cdadbe79944b1dc9025}
       \strng{authorfullhash}{484d30469253de6554999d40b3b02aac}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This document defines terms related to the structure and processing of inorganic, polymeric, and inorganic-organic hybrid materials from precursors, through gels to solid products. It is divided into four sections - precursors, gels, solids, and processes - and the terms have been restricted to those most commonly encountered. For the sake of completeness and where they are already satisfactorily defined for the scope of this document, terms from other IUPAC publications have been used. Otherwise, the terms and their definitions have been assembled in consultation with experts in the relevant fields. The definitions are intended to assist the reader who is unfamiliar with sol-gel processing, ceramization, and related technologies and materials, and to serve as a guide to the use of standard terminology by those researching in these areas. {©} 2007 IUPAC.}
@@ -846,8 +1346,8 @@
       \strng{authorbibnamehash}{68b4a18213955a4d1a4a3c1562562f18}
       \strng{authornamehash}{68b4a18213955a4d1a4a3c1562562f18}
       \strng{authorfullhash}{8d43d3c4353a8369ec2cc448b6680f43}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0044-8249}
@@ -892,8 +1392,8 @@
       \strng{authorbibnamehash}{deffec396c0b04d5af426ff1099cba1d}
       \strng{authornamehash}{deffec396c0b04d5af426ff1099cba1d}
       \strng{authorfullhash}{deffec396c0b04d5af426ff1099cba1d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Aerogels composed of interconnected networks of CdS building blocks have been prepared from controlled aggregation of discrete nanoparticles followed by supercritical fluid extraction. The resultant materials have surface areas up to 242m2/g and average pore diameters in the range of 15-25nm. Powder X-ray diffraction indicates that the average crystallite size is on the order of 2nm in 100°C heated aerogels, but increases to nearly 16nm upon heating at 500°C. This increase in size is accompanied by a phase change from the cubic to the hexagonal structure. The optical bandgap (measured by absorption onset) is also tunable with heat treatment, and was found to range from 2.2-2.8eV. The photoluminescence excitation spectrum ($\lambda$ ex = 400nm) of a 100°C-heated CdS aerogel is similar to that of the nanoparticulate starting materials, exhibiting both a sharp excitonic peak near 450nm corresponding to band edge emission, and a broad feature in the region 500-700nm, attributed to electron-hole recombination at trap states. {©} 2004 Elsevier B.V. All rights reserved.}
@@ -936,8 +1436,8 @@
       \strng{authorbibnamehash}{17c92c38343a0874da14df371ef22c4c}
       \strng{authornamehash}{17c92c38343a0874da14df371ef22c4c}
       \strng{authorfullhash}{17c92c38343a0874da14df371ef22c4c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Chalcogenide aerogels based entirely on semiconducting II-VI or IV-VI frameworks have been prepared from a general strategy that involves oxidative aggregation of metal chalcogenide nanoparticle building blocks followed by supercritical solvent removal. The resultant materials are mesoporous, exhibit high surface areas, can be prepared as monoliths, and demonstrate the characteristic quantum-confined optical properties of their nanoparticle components. These materials can be synthesized from a variety of building blocks by chemical or photochemical oxidation, and the properties can be further tuned by heat treatment. Aerogel formation represents a powerful yet facile method for metal chalcogenide nanoparticle assembly and the creation of mesoporous semiconductors.}
@@ -1469,8 +1969,8 @@
       \strng{authorbibnamehash}{b32bcabcf05721f1c390983077f779d0}
       \strng{authornamehash}{b32bcabcf05721f1c390983077f779d0}
       \strng{authorfullhash}{a95f0602a5b4e1f7d5cd5b40afee2ef5}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The strong interaction of electromagnetic fields with plasmonic nanomaterials offers opportunities in various technologies that take advantage of photophysical processes amplified by this light-matter interaction. Recently, it has been shown that in addition to photophysical processes, optically excited plasmonic nanoparticles can also activate chemical transformations directly on their surfaces. This potentially offers a number of opportunities in the field of selective chemical synthesis. In this Review we summarize recent progress in the field of photochemical catalysis on plasmonic metallic nanostructures. We discuss the underlying physical mechanisms responsible for the observed chemical activity, and the issues that must be better understood to see progress in the field of plasmon-mediated photocatalysis.}
@@ -1525,8 +2025,8 @@
       \strng{authorbibnamehash}{350f416f764279366940183d8004f95d}
       \strng{authornamehash}{350f416f764279366940183d8004f95d}
       \strng{authorfullhash}{0b0cb3a31a229e39d0c4205cefc68a4a}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The direct cross-linking of Au/Ag alloy nanoparticles (NPs) into high surface area, mesoporous Au/Ag aerogels via chemical oxidation of the surface ligands is reported. The precursor alloy NPs with composition-tunable morphologies were produced by galvanic replacement of the preformed Ag hollow NPs. The effect of Au:Ag molar ratio on the NP morphology and surface plasmon resonance has been thoroughly investigated and resulted in smaller Au/Ag alloy NPs (4-8 nm), larger Au/Ag alloy hollow NPs (40-45 nm), and Au/Ag alloy hollow particles decorated with smaller Au NPs (2-5 nm). The oxidative removal of surfactant ligands, followed by supercritical drying, is utilized to construct large (centimeter to millimeter) self-supported Au/Ag alloy aerogels. The resultant assemblies exhibit high surface areas (67-73 m2/g), extremely low densities (0.051-0.055 g/cm3), and interconnected mesoporous (2-50 nm) networks, making them of great interest for a number of new technologies. The influence of mesoporous gel morphology on surface-enhanced Raman scattering (SERS) has been studied using Rhodamine 101 (Rd 101) as the probe molecule. The alloy aerogels exhibit SERS signal intensities that are 10-42 times higher than those achieved from the precursor Au/Ag alloy NPs. The Au/Ag alloy aerogel III exhibits SERS sensing capability down to 1 nM level. The increased signal intensities attained for alloy aerogels are attributed to highly porous gel morphology and enhanced surface roughness that can potentially generate a large number of plasmonic hot spots, creating efficient SERS substrates for future applications.}
@@ -1573,8 +2073,8 @@
       \strng{authorbibnamehash}{05e6d04eb64d0db32dabafbb84de3218}
       \strng{authornamehash}{05e6d04eb64d0db32dabafbb84de3218}
       \strng{authorfullhash}{165ed29a540c170f463539f4bbe1f9d8}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0959-9428}
@@ -1631,8 +2131,8 @@
       \strng{authorbibnamehash}{7434cb3c68c4325b61022e7190c6e922}
       \strng{authornamehash}{7434cb3c68c4325b61022e7190c6e922}
       \strng{authorfullhash}{4d2b29b3bd9a54af0152e9ec9f64ccda}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A synthetic route to prepare metal-semiconductor hybrid nanoparticles is presented, along with the possibility to tune the ratio of primary to secondary nucleation and the morphology of the semiconductor material grown on the metal nanoparticle seeds. Gold and cobalt-platinum nanoparticles are employed as metal seeds, on which CdS or CdSe is grown. Using transmission electron microscopy, absorption spectroscopy (UV-vis), and powder X-ray diffraction as characterization techniques, a significant influence of chloride ions on the type of nucleation (that is, secondary or primary nucleation) as well as on the shape of the resulting heterostructures is observed. Partially replacing the commonly used cadmium precursor CdO by varying amounts of CdCl2 opens access to rod-like, multiarmed, flower-like, and bullet-like structures. The results suggest that neither pure CdO nor pure CdCl2 as precursors but only a mixture of both make these structures obtainable. In this article, the influence of the chloride ion concentration during semiconductor growth on metal seeds is investigated in depth. The morphology of the resulting heterostructures is characterized carefully, and a growth mechanism is suggested. Furthermore, it is shown that this synthetic approach can be transferred to seeds of various metals such as platinum, gold, and cobalt platinum.}
@@ -1679,8 +2179,8 @@
       \strng{authorbibnamehash}{d34af9091187edf27cbf0a1a6d1fa8d3}
       \strng{authornamehash}{d34af9091187edf27cbf0a1a6d1fa8d3}
       \strng{authorfullhash}{a2fa200302a9be79f90393080d1f761b}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a universal ethanolic one-step approach to noble/less noble metal aerogels at room temperature and −70 °C. We present a universal one-step approach to generate metal aerogels at room and at dry ice cold temperature, abbreviated as DICE. Performing the synthesis completely in an ethanolic phase allows for the formation of pure noble (Pt, Pd, Au and Ag) and less noble metal (Cu and Co) gels in a remarkably short period of time compared to the widespread aqueous synthesis strategies. Furthermore, three-dimensional disordered, porous networks were obtained for each system with high surface areas of 860 m 2 mol −1 for Ag up to 5470 m 2 mol −1 for Co. Additionally, it is shown that the low reaction temperature of −70 °C enables the control of the gelation time without losing the structural characteristics. Moreover, with respect to industrial applications, this facile, stabilizer-free synthesis yields large amounts of materials using highly concentrated precursor solutions.}
@@ -1699,6 +2199,8 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{Banin2014}
+  \missing{Brus1984}
 \endrefsection
 \endinput
 

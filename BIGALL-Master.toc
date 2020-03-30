@@ -3,46 +3,60 @@
 \contentsline {section}{\numberline {1}Einleitung}{4}{section.1}
 \contentsline {section}{\numberline {2}Theoretische Grundlagen}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Synthese von Nanopartikeln}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Halbleiternanopartikel \& Gr\IeC {\"o}\IeC {\ss }enquantisierungseffekt}{6}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Metallnanopartikel \& Oberfl\IeC {\"a}chenplasmonen}{8}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Metall-Halbleiter-Nanopartikel}{9}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Nanopartikelbasierte Gele}{10}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Metall-Halbleiter-Gele}{11}{subsection.2.6}
-\contentsline {section}{\numberline {3}Analytische Methoden}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}Absorptionsspektroskopie}{12}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}R\IeC {\"o}ntgenpulverdiffraktometrie (XRD)}{12}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Transmissionselektronenmikroskopie (TEM)}{12}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Atomabsorptionsspektroskopie (AAS)}{12}{subsection.3.4}
-\contentsline {section}{\numberline {4}Experimentelles}{13}{section.4}
-\contentsline {subsection}{\numberline {4.1}Chemikalien}{13}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Synthese von Kupfersulfid durch Single-Source-Precurser}{13}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Synthese des Single-Source-Precursors \ch {Cu[DDTC]2}}{13}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Herstellung Metallsulfid}{14}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Synthese von CuS mit \ch {Cu[DDTC]2} und \ch {CuCl2}}{14}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Synthese von Kupfersulfid in Anwesenheit von Goldnanopartikeln}{14}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Herstellung von Gelen}{15}{subsection.4.5}
-\contentsline {subsubsection}{\numberline {4.5.1}Herstellung von Hydrogelen durch Yttrium und Ytterbium}{15}{subsubsection.4.5.1}
-\contentsline {paragraph}{\nonumberline Synthese von Gold-Nanopartikel in organischen L\IeC {\"o}sungsmitteln}{15}{section*.16}
-\contentsline {paragraph}{\nonumberline Phasentransfer der Gold-Nanopartikel}{15}{section*.17}
-\contentsline {paragraph}{\nonumberline Gelierung der Gold-Nanopartikel mit Yttrium und Ytterbium}{16}{section*.18}
-\contentsline {subsubsection}{\numberline {4.5.2}Herstellung von Hydrogelen durch Wasserstoffperoxid}{16}{subsubsection.4.5.2}
-\contentsline {paragraph}{\nonumberline Synthese Goldnanopartikel in w\IeC {\"a}ssriger Phase mit Natriumcitrat}{16}{section*.19}
-\contentsline {paragraph}{\nonumberline Synthese Silbernanopartikel in w\IeC {\"a}ssriger Phase mit Natriumcitrat}{16}{section*.20}
-\contentsline {paragraph}{\nonumberline Gelierungsprozess}{17}{section*.21}
-\contentsline {subsubsection}{\numberline {4.5.3}Ethanolischer Ansatz f\IeC {\"u}r direkte Synthese von Gelen}{17}{subsubsection.4.5.3}
-\contentsline {subsection}{\numberline {4.6}Phasentransfer der Gele}{18}{subsection.4.6}
-\contentsline {subsubsection}{\numberline {4.6.1}Citratstabilisierte Gele}{18}{subsubsection.4.6.1}
-\contentsline {subsubsection}{\numberline {4.6.2}Gele durch Yttrium und Ytterbium}{18}{subsubsection.4.6.2}
-\contentsline {subsection}{\numberline {4.7}Synthese von Kupfersulfid in Anwesenheit von Gelen}{19}{subsection.4.7}
-\contentsline {subsubsection}{\numberline {4.7.1}Variationen der Synthese}{19}{subsubsection.4.7.1}
-\contentsline {paragraph}{\nonumberline Variation der Temperatur}{19}{section*.22}
-\contentsline {paragraph}{\nonumberline Variation des Metalls im Single-Source-Precursor}{19}{section*.24}
-\contentsline {paragraph}{\nonumberline Zusatz von Chlorid}{20}{section*.25}
-\contentsline {paragraph}{\nonumberline Variation der Konzentration}{20}{section*.27}
-\contentsline {paragraph}{\nonumberline Variation des Gels}{21}{section*.29}
-\contentsline {section}{\numberline {5}Messungen und Auswertung}{22}{section.5}
-\contentsline {section}{\numberline {6}Zusammenfassung}{23}{section.6}
-\contentsline {section}{\numberline {7}Literatur}{24}{section.7}
-\contentsline {section}{\numberline {8}Anhang}{27}{section.8}
-\contentsline {section}{\nonumberline Abbildungsverzeichnis}{27}{section*.31}
-\contentsline {section}{\nonumberline Tabellenverzeichnis}{28}{section*.32}
+\contentsline {subsection}{\numberline {2.2}Halbleiternanopartikel \& Gr\IeC {\"o}\IeC {\ss }enquantisierungseffekt}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Metallnanopartikel \& Oberfl\IeC {\"a}chenplasmonen}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Metall-Halbleiter-Nanopartikel}{11}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Nanopartikelbasierte Gele}{12}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Metall-Halbleiter-Gele}{14}{subsection.2.6}
+\contentsline {section}{\numberline {3}Analytische Methoden}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Absorptionsspektroskopie}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}R\IeC {\"o}ntgenpulverdiffraktometrie (XRD)}{15}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Transmissionselektronenmikroskopie (TEM)}{15}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Atomabsorptionsspektroskopie (AAS)}{15}{subsection.3.4}
+\contentsline {section}{\numberline {4}Experimentalteil}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}Chemikalien}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Synthese von Kupfersulfid durch Single-Source-Precurser}{17}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Synthese des Single-Source-Precursors \ch {Cu[DDTC]2}}{18}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Herstellung Metallsulfid}{18}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Synthese von CuS mit \ch {Cu[DDTC]2} und \ch {CuCl2}}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Synthese von Kupfersulfid in Anwesenheit von Goldnanopartikeln}{18}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Herstellung von Gelen}{19}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Herstellung von Hydrogelen durch Yttrium und Ytterbium}{19}{subsubsection.4.5.1}
+\contentsline {paragraph}{\nonumberline Synthese von Gold-Nanopartikel in organischen L\IeC {\"o}sungsmitteln}{19}{section*.12}
+\contentsline {paragraph}{\nonumberline Phasentransfer der Gold-Nanopartikel}{19}{section*.13}
+\contentsline {paragraph}{\nonumberline Gelierung der Gold-Nanopartikel mit Yttrium und Ytterbium}{20}{section*.14}
+\contentsline {subsubsection}{\numberline {4.5.2}Herstellung von citratstabilisierten Hydrogelen}{20}{subsubsection.4.5.2}
+\contentsline {paragraph}{\nonumberline Synthese Goldnanopartikel in w\IeC {\"a}ssriger Phase mit Natriumcitrat}{20}{section*.15}
+\contentsline {paragraph}{\nonumberline Synthese Silbernanopartikel in w\IeC {\"a}ssriger Phase mit Natriumcitrat}{20}{section*.16}
+\contentsline {paragraph}{\nonumberline Gelierungsprozess}{21}{section*.17}
+\contentsline {subsubsection}{\numberline {4.5.3}Ethanolischer Ansatz f\IeC {\"u}r direkte Synthese von Gelen}{21}{subsubsection.4.5.3}
+\contentsline {subsection}{\numberline {4.6}Phasentransfer der Gele}{22}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Citratstabilisierte Gele}{22}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Gele durch Zugabe von Yttrium und Ytterbium}{22}{subsubsection.4.6.2}
+\contentsline {subsection}{\numberline {4.7}Synthese von Kupfersulfid in Anwesenheit von Gelen}{23}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}Variationen der Synthese}{23}{subsubsection.4.7.1}
+\contentsline {paragraph}{\nonumberline Variation der Temperatur}{23}{section*.18}
+\contentsline {paragraph}{\nonumberline Variation des Metalls im Single-Source-Precursor}{24}{section*.20}
+\contentsline {paragraph}{\nonumberline Zusatz von Chlorid}{24}{section*.21}
+\contentsline {paragraph}{\nonumberline Variation der Konzentration}{24}{section*.23}
+\contentsline {paragraph}{\nonumberline Variation des Gels}{24}{section*.25}
+\contentsline {section}{\numberline {5}Messungen und Auswertung}{25}{section.5}
+\contentsline {subsection}{\numberline {5.1}Synthese Kupfersulfidnanopartikel}{25}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Synthese Goldnanopartikel}{26}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Synthese von CuS mit \ch {Cu[DDTC]2} und \ch {CuCl2}}{28}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Synthese von Kupfersulfid in Anwesenheit von Goldnanopartikeln}{28}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Synthese der Gele}{31}{subsection.5.5}
+\contentsline {subsubsection}{\numberline {5.5.1}Untersuchung von Hydrogelen durch Yttrium und Ytterbium}{31}{subsubsection.5.5.1}
+\contentsline {subsubsection}{\numberline {5.5.2}Untersuchung von citratstabilisierten Gelen}{33}{subsubsection.5.5.2}
+\contentsline {subsubsection}{\numberline {5.5.3}Untersuchung der Gele aus ethanolischem Ansatz}{34}{subsubsection.5.5.3}
+\contentsline {subsection}{\numberline {5.6}Untersuchung der Metallsulfidsynthese in Anwesenheit von Gelen}{34}{subsection.5.6}
+\contentsline {subsubsection}{\numberline {5.6.1}Einfluss der Reaktionstemperatur}{36}{subsubsection.5.6.1}
+\contentsline {subsubsection}{\numberline {5.6.2}Variation des Kations}{37}{subsubsection.5.6.2}
+\contentsline {subsubsection}{\numberline {5.6.3}Zusatz von Chloridionen}{40}{subsubsection.5.6.3}
+\contentsline {subsubsection}{\numberline {5.6.4}Variation der Konzentration}{42}{subsubsection.5.6.4}
+\contentsline {subsubsection}{\numberline {5.6.5}Variation des Gels}{45}{subsubsection.5.6.5}
+\contentsline {section}{\numberline {6}Zusammenfassung}{47}{section.6}
+\contentsline {section}{\numberline {7}Literatur}{49}{section.7}
+\contentsline {section}{\numberline {8}Anhang}{53}{section.8}
+\contentsline {section}{\nonumberline Abbildungsverzeichnis}{53}{section*.63}
+\contentsline {section}{\nonumberline Tabellenverzeichnis}{56}{section*.64}
