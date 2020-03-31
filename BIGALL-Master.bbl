@@ -614,6 +614,51 @@
       \verb https://pubs.acs.org/doi/10.1021/cr400544s
       \endverb
     \endentry
+    \entry{Brus1984}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f7a170253fdd19e6ae67bcf7fea6417e}{%
+           family={Brus},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \strng{fullhash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \strng{bibnamehash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \strng{authorbibnamehash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \strng{authornamehash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \strng{authorfullhash}{f7a170253fdd19e6ae67bcf7fea6417e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We model, in an elementary way, the excited electronic states of semiconductor crystallites sufficiently small (∼50 {Å} diam) that the electronic properties differ from those of bulk materials. In th...}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{{Electron–electron and electron‐hole interactions in small semiconductor crystallites: The size dependence of the lowest excited electronic state}}
+      \field{volume}{80}
+      \field{year}{1984}
+      \field{pages}{4403\bibrangedash 4409}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1063/1.447218
+      \endverb
+      \verb{file}
+      \verb :D$\backslash$:/Mendeley Desktop/DATA/Brus - 1984 - Electron–electron and electron‐hole interactions in small semiconductor crystallites The size dependence of the lowest exc.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://aip.scitation.org/doi/10.1063/1.447218
+      \endverb
+      \verb{url}
+      \verb http://aip.scitation.org/doi/10.1063/1.447218
+      \endverb
+      \keyw{CRYSTALS,ELECTRONIC STRUCTURE,ELECTRON−ELECTRON COUPLING,ELECTRON−HOLE COUPLING,EXCITED STATES,SEMICONDUCTOR MATERIALS,SIZE}
+    \endentry
     \entry{Mulvaney1996}{article}{}
       \name{author}{1}{}{%
         {{hash=be46ee8e16a6b596f70e32b9c4023b36}{%
@@ -1208,6 +1253,58 @@
       \verb http://doi.wiley.com/10.1002/ange.200906010
       \endverb
       \keyw{Formkontrolle,Halbleiter,Heterogene Katalyse,Metalle,Nanopartikel}
+    \endentry
+    \entry{Banin2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=01d2a06b57de19770cf7a99993167d3e}{%
+           family={Banin},
+           familyi={B\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+        {{hash=1b07a0e9f4d981a7e72849d077ead08d}{%
+           family={Ben-Shahar},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Yuval},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d3766f472176635ba0dd908ae99d519f}{%
+           family={Vinokurov},
+           familyi={V\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{1543323a939d216b32133e9fb65a04b6}
+      \strng{fullhash}{1543323a939d216b32133e9fb65a04b6}
+      \strng{bibnamehash}{1543323a939d216b32133e9fb65a04b6}
+      \strng{authorbibnamehash}{1543323a939d216b32133e9fb65a04b6}
+      \strng{authornamehash}{1543323a939d216b32133e9fb65a04b6}
+      \strng{authorfullhash}{1543323a939d216b32133e9fb65a04b6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hybrid nanoparticles combine two or more disparate materials on the same nanosystem and represent a powerful approach for achieving advanced materials with multiple functionalities stemming from th...}
+      \field{issn}{0897-4756}
+      \field{journaltitle}{Chemistry of Materials}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Hybrid Semiconductor–Metal Nanoparticles: From Architecture to Function}}
+      \field{volume}{26}
+      \field{year}{2014}
+      \field{pages}{97\bibrangedash 110}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1021/cm402131n
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/cm402131n
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/cm402131n
+      \endverb
+      \keyw{assembly,hybrid nanoparticles,nanoelectronics,photocatalysis,semiconductor−metal interface}
     \endentry
     \entry{Aleman2007}{article}{}
       \name{author}{12}{}{%
@@ -2199,8 +2296,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Banin2014}
-  \missing{Brus1984}
 \endrefsection
 \endinput
 
